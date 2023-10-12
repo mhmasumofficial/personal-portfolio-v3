@@ -373,6 +373,7 @@ fieldset[disabled]:not(.w-input-disabled) .w-select {
 textarea.w-input,
 textarea.w-select {
   height: auto;
+  color: white;
 }
 .w-select {
   background-color: #f3f3f3;
